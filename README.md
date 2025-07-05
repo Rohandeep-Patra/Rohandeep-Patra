@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">I'm Rohandeep Patra</h1>
+<h1 align="center">Hi there 👋 I'm Rohandeep Patra</h1>
 <h3 align="center">AI-Driven Mind | Code-Fueled Vision Turning complex problems into elegant solutions</h3>
 
 - 🔭 I’m currently working on **Excel Analytics Platform**
