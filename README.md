@@ -77,7 +77,7 @@
 <h3 align="left">🚀 Featured Projects:</h3>
 <ul>
   <li>📊 <a href="https://github.com/rohandeep-patra/excel-analytics-platform" target="_blank">Excel Analytics Platform</a> — Upload Excel files, analyze data, and generate dynamic 2D/3D charts.</li>
-  <li>🗣️ <a href="https://github.com/rohandeep-patra/nexatalk" target="_blank">NexaTalk</a> — A real-time whiteboard with chat, built using PostgreSQL, WebSockets & Fabric.js.</li>
+  <li>🗣️ <a href="https://github.com/rohandeep-patra/nexatalk" target="_blank">NexaTalk</a> — A real-time video calling application with chat, built using Next.js, Stream.io & Clerk.</li>
   <li>🎬 <a href="https://github.com/rohandeep-patra/movix" target="_blank">MOVIX</a> — Movie booking platform with admin, user, and theatre dashboards.</li>
 </ul>
 
