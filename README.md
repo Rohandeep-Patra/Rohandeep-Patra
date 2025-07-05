@@ -17,17 +17,17 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rohandeep-patra" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://linkedin.com/in/rohandeep-patra" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" style="margin-right: 30px;"/>
   </a>
-  <a href="https://www.codechef.com/users/rohandeep_07" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" />
+  <a href="https://www.codechef.com/users/rohandeep_07" target="_blank" title="CodeChef">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30" height="30" alt="CodeChef" style="margin-right: 30px;"/>
   </a>
-  <a href="https://www.hackerrank.com/rohandeepp100" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=hackerrank" height="40" />
+  <a href="https://www.hackerrank.com/rohandeepp100" target="_blank" title="HackerRank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="30" height="30" alt="HackerRank" style="margin-right: 30px;"/>
   </a>
-  <a href="https://www.leetcode.com/rohandeepp_07" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="40" />
+  <a href="https://leetcode.com/rohandeepp_07" target="_blank" title="LeetCode">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" height="30" alt="LeetCode" style="margin-right: 30px;"/>
   </a>
 </p>
 
@@ -35,7 +35,42 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,python,java,cpp,c,html,css,sass,tailwind,django,flask,git,github,docker,kubernetes,tensorflow,pytorch,opencv,postman,aws,firebase,vscode"/>
+  <!-- Individual tech stack icons with tooltips -->
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=sass" title="Sass" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" title="Scikit-Learn" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=opencv" title="OpenCV" width="35" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" width="35" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="35" style="margin: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="35" style="margin: 10px;"/>
 </p>
 
 ---
