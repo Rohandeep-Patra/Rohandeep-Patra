@@ -35,7 +35,6 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <!-- Individual tech stack icons with tooltips -->
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="35" style="margin: 10px;"/>
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="35" style="margin: 10px;"/>
   <img src="https://skillicons.dev/icons?i=react" title="React" width="35" style="margin: 10px;"/>
@@ -75,6 +74,25 @@
 
 ---
 
+<h3 align="left">🚀 Featured Projects:</h3>
+<ul>
+  <li>📊 <a href="https://github.com/rohandeep-patra/excel-analytics-platform" target="_blank">Excel Analytics Platform</a> — Upload Excel files, analyze data, and generate dynamic 2D/3D charts.</li>
+  <li>🗣️ <a href="https://github.com/rohandeep-patra/nexatalk" target="_blank">NexaTalk</a> — A real-time whiteboard with chat, built using PostgreSQL, WebSockets & Fabric.js.</li>
+  <li>🎬 <a href="https://github.com/rohandeep-patra/movix" target="_blank">MOVIX</a> — Movie booking platform with admin, user, and theatre dashboards.</li>
+</ul>
+
+---
+
+<h3 align="left">🎓 Certifications & Achievements:</h3>
+<ul>
+  <li>🧠 Generative AI Complete Bootcamp - NLP, Transformers & Gen AI – Udemy</li>
+  <li>☁️ Salesforce Fundamentals: A Complete Guide – Udemy</li>
+  <li>📈 NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning – Udemy</li>
+  <li>💻 Full Stack Development Using MERN – Apna College</li>
+</ul>
+
+---
+
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandeep-patra&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
@@ -86,6 +104,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohandeep-patra&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+<h3 align="center">💭 My Developer Philosophy:</h3>
+<p align="center">
+  🚀 Write code as if the next person to maintain it is a crazy axe-wielding maniac who knows where you live.<br/>
+  🔍 Debugging is like being the detective in a crime movie where you are also the murderer.<br/>
+  💡 Simplicity is the soul of efficiency.
 </p>
 
 ---
